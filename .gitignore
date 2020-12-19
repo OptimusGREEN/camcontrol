@@ -1,0 +1,8 @@
+
+.idea/
+
+my_secrets.py
+
+myqtt.py
+
+*.pyc
